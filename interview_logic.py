@@ -5,7 +5,7 @@ import google.generativeai as genai
 
 load_dotenv()
 get_api_key = st.secrets.get("GEMINI_API_KEY", os.getenv("GEMINI_API_KEY"))
-if not api_key:
+if not get_api_key:
     raise ValueError("❌ Gemini API key not found in st.secrets or environment variables.")
 genai.configure(api_key=get_api_key)
 
