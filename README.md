@@ -15,7 +15,7 @@ Practice behavioral interview questions and get instant feedback using AI. This 
 ## 🧠 Powered by
 
 - [Streamlit](https://streamlit.io/)
-- [Google Gemini Pro (Generative AI)](https://ai.google.dev/)
+- [Google Gemini (Generative AI)](https://ai.google.dev/)
 - `google-generativeai` Python SDK
 
 ## 🌐 Deployed App
