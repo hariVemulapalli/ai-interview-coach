@@ -91,5 +91,5 @@ streamlit run app.py
 └── .gitignore
 ```
 
-## 📬 Contact
+
 Built with ❤️ by Hari Vemulapalli
